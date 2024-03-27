@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mineral-effect-360101",
+  "private_key_id": "c0724809147035a6ec39085e7764d6d5a37440ad",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCvSNb3PJNDca40\n1V/6v4zrIddcPbhdYZPiKIHHXN3hoRxemmWI/ONGEFAxCg0I4gpvP/KphQNDE/X9\n0V16Oxw3211Y1EAgA03nXuEEV/D4zh1jiANO/vFJb7S78heFg8/rKPOKik+TLBe2\nsUUs784Wq9KlKUynyC1NO2c7vjkwN4MlkmmDKut7T0j/vRnoLn1oZR2u22Z9qVSq\nzw1OlEP+n1YymHg358ZiTtTBwABYuRh9cG7LtS3zwTynIKeLFWozvQYWW5pUcIqx\n0ed9LlpeXwdBsVPj032e+Rm6YwpXzR0aYv2qHxAex3gqqwpTya8kmw7YWlXbxNkz\nBUlk1NDZAgMBAAECggEASLvua5AowWs6MPU7iwaSGH2l6kI4LxOO9GD/nTTlYzth\n1MW3jTT2r/uT8w1rJDz7vHcqH/qwRFTTlfubEN3XUzxFC1ejtkT4viHqOE2vkeah\nXkwxp0V15RWjxvtplD8Cd1+6U0oaRAUfX/FGNaPafiDVWzB8fQC8/5e/OhSwkVc/\nwTijBI7Tr3VXyx8PDuq0k4Itk6ew5SS+n+6Tbo4K9A9XYxuhxD9WF43hoGIq7WZT\nSeC0YmclBW2TQp9RHuSOhTtOrGN9tCpDBSiijT7rp5ZT4/380Q2Luikq0XodkXeI\n1qyMX0IHfKCy1cJ6KnAItp8VRdasahJ1uGi4w7P5YwKBgQDaw7aB7i/IDnKNsh4f\np+WM6esA6FkFzcD56qsgKv+Aererd57dRxV/Ub0pGwlkt8opPWQVPq+dKmD3jNID\nGCGb+lSnvi5dhM0Mzrg9vWRSfcc68C5oM/B/fXGeKGtVxn91NNrt5QUBP4J4WwI5\nCFMTvhieekM7MEXXpc20zXefrwKBgQDNHo/MLUut7232nnspW3qAoSGLCNqzcbqi\nbeQnmyYoYu5JBFhQCFcpljvkNyiYWOvNgUaOh6ysSu0RgmEYeHP2zJUlQhOabunc\npCF5dUtcg/oMfQXEijlRb27bUxz4C0LbAZNsaC4upYFpbZ9gWH6hebmIjoPBHYjT\nk5YER8rx9wKBgB0PlrUX8R0AXlNYcAwAf8wCXweV1g2hUZthgy4YyCxHIRMUJvR6\nNu7c6uYFA3BvwdlMoHj6BNY6BPudp2Bl2kEgNhK6fupJc/vZkjwRZrxWnRrFQUTy\ncWZeQbOi5u9UGSZ2yQaFP+70gt5+KINvCao7vIWA9GFufjixe+wix1tdAoGAIIQI\nvZAsoA0FfIPQ+FRlDgD9BUJJEQslT9xlv5WLrflI1tBWg5Fe59vF8L6Bs+zcrH4i\nxjNhvwo9nHnzlGJ715LEzdw0qVWNwwlNuShL4wWU3OfwwyA6R9uHUkNRo0x9s6QD\nT7sQHxrjcegLzMUahdR7Ade9sR5Sc1/A9zq+RC8CgYBT1Q653AxqRT9L1HdXLTXk\nQir5P5oO52+UrMnU1c+bLCcTVmFooOiBplqunpZ3buUtePmlJv2KZzYPAaFX8fgQ\nXGfAs/odP00WR2ec/jq/alJ9gDKey4bmE/ZFVfTshD0E3e5wELIm+xiD9l72DyUk\n5Ml4RA+i8iyK/6A6TFcWiA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-6kdr3bkendpbgoyyokxxg8ftxo@mineral-effect-360101.iam.gserviceaccount.com",
+  "client_id": "106476176174810760143",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-6kdr3bkendpbgoyyokxxg8ftxo%40mineral-effect-360101.iam.gserviceaccount.com"
+}
